@@ -24,6 +24,7 @@ about headings
        2. natural numbers
        3. integers
     
-    ![apple](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fred-apple-with-droplet-gm185071735-19372124&psig=AOvVaw1TRrm7wnuXEJJZOS5tXPzR&ust=1621151927251000&source=images&cd=vfe&ved=2ahUKEwjypaPXm8vwAhWYkUsFHaoZDc8Qr4kDegUIARCFAg)
+    ![apple](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnutritionsource%2Ffood-features%2Fapples%2F&psig=AOvVaw2vsrsr6qWZNPGpf6n8YWOT&ust=1621152258441000&source=images&cd=vfe&ved=2ahUKEwjgwpn1nMvwAhVb1XMBHYVKA8cQr4kDegUIARCRAg)
+    
     
  
