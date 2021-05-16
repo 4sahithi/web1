@@ -24,7 +24,7 @@ about headings
        2. natural numbers
        3. integers
     
-    ![taj mahal] 
+    ![taj mahal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxt0mdOe4GJ6MvieCozj1HJya3QkmLr-EKA&usqp=CAU)
     
     
  
