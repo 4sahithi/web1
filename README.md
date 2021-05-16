@@ -28,5 +28,10 @@ about headings
     
     [Google](https://www.google.com/)
     
+    ~~~python
+    def fun():
+    print("hai")
+    ~~~
+    
     
  
